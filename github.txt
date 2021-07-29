@@ -1,0 +1,1 @@
+This is an amazon api scrapper. The goal was test it and make scrapping easy for other developers 
